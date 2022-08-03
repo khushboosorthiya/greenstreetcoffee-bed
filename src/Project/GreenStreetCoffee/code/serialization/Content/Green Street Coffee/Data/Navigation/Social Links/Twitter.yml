@@ -1,0 +1,30 @@
+﻿---
+ID: "e65b7b58-4fae-4672-88f1-889d0a6b6b46"
+Parent: "a710284c-2112-4ad8-8e08-2d531406beba"
+Template: "bce5fdd1-c84a-42ec-a2b4-df8b3736fc15"
+Path: /sitecore/content/Metro/Green Street Coffee/Data/Navigation/Social Links/Twitter
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14e8a72c-e8b7-42f1-a4a1-72ff4e020c00"
+      Hint: SocialLink
+      Value: |
+        <link linktype="external" url="https://twitter.com/greenstcoffee" anchor="" title="Twitter" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T091503Z
+    - ID: "8b2748a0-b3c8-4d17-89c7-8d8c3513dceb"
+      Hint: SocialLinkTitle
+      Value: Twitter
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dd418dcf-3c5c-4ac8-a758-099ac39f7b06"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220731T180432Z

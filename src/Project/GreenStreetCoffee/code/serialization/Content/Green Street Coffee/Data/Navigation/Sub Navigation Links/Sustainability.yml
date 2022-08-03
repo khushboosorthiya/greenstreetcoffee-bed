@@ -1,0 +1,34 @@
+﻿---
+ID: "abe9017b-8fa4-47db-96de-7c9c3deccfaa"
+Parent: "fc34a332-d61e-4e93-bcca-a3a9cb051341"
+Template: "4592ab55-9ea7-490d-8ab6-9bcfef36fc87"
+Path: /sitecore/content/Metro/Green Street Coffee/Data/Navigation/Sub Navigation Links/Sustainability
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b46ed8b-0bce-4623-858f-6958cb889499"
+      Hint: NavigationTitle
+      Value: Sustainability
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T100219Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "6511ec70-3c12-453a-ae57-494034161d17"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bc10544f-10b2-4420-90a1-1e2ae2b867ba"
+      Hint: NavigationLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{3928DF1C-1786-4F34-9F11-3ABBD93AAE8F}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220802T141829Z

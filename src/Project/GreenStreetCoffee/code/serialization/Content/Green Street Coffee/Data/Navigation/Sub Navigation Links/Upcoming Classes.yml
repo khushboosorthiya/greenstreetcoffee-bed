@@ -1,0 +1,30 @@
+﻿---
+ID: "158d54f0-e5d8-4037-8fa0-9be125ce42b2"
+Parent: "fc34a332-d61e-4e93-bcca-a3a9cb051341"
+Template: "4592ab55-9ea7-490d-8ab6-9bcfef36fc87"
+Path: /sitecore/content/Metro/Green Street Coffee/Data/Navigation/Sub Navigation Links/Upcoming Classes
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b46ed8b-0bce-4623-858f-6958cb889499"
+      Hint: NavigationTitle
+      Value: Upcoming Classes
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T100259Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "dee00ed1-a419-451c-8422-430202c39cae"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bc10544f-10b2-4420-90a1-1e2ae2b867ba"
+      Hint: NavigationLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{9B94FBC7-1A98-45E6-9063-8EF1DABC05E6}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220802T141743Z

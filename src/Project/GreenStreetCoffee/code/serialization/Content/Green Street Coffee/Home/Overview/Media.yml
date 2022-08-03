@@ -1,0 +1,29 @@
+﻿---
+ID: "68fc5f33-eff7-4611-9038-0cc83b650a38"
+Parent: "640f3167-e787-4893-8ec3-3a70435f0626"
+Template: "c46d739a-9817-4d05-9b54-13cfa4c13463"
+Path: /sitecore/content/Metro/Green Street Coffee/Home/Overview/Media
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T094557Z
+    - ID: "56c22524-c0e1-4c82-8d8c-a3fa14256457"
+      Hint: BrowserTitle
+      Value: Media | Greenstreet Coffee Roasters
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "cc3cb017-1c7b-4e29-a84c-bc037d534384"
+    - ID: "8f98ed92-2bd7-42d6-a866-205268325da6"
+      Hint: BreadcrumbTitle
+      Value: Media
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220730T120102Z

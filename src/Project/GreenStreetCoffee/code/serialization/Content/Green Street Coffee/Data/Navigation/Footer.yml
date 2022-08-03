@@ -1,0 +1,50 @@
+﻿---
+ID: "27c35acb-f8a1-4906-9032-811c3c7d1c6f"
+Parent: "ba255ed2-c0d2-48aa-9302-6a9900a1dd72"
+Template: "3e1563af-d66f-4f8c-90cc-ca084570690e"
+Path: /sitecore/content/Metro/Green Street Coffee/Data/Navigation/Footer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T091553Z
+    - ID: "3dec7db1-f221-45b8-8e2c-54f465731a0f"
+      Hint: SocialLinksHeading
+      Value: SOCIALIZE WITH US
+    - ID: "8be81a7b-cf9c-4f0a-9295-97592dc8fd33"
+      Hint: LocationsSectionContent
+      Value: |
+        <p>Greenstreet Coffee Co: 4533 Baltimore Ave, Philadelphia, PA 19143</p>
+        <p>Greenstreet Coffee Roastery: 1919 Alter St, Philadelphia, PA 19146</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "2b2d9664-e6b1-4b15-a765-71c621641d9d"
+    - ID: "98d39be4-f25e-4682-bfe7-5422b211dc14"
+      Hint: NewsletterSectionHeading
+      Value: NEWSLETTER SUBSCRIPTION
+    - ID: "b6adc1e0-22da-46df-b417-169ce37fe071"
+      Hint: SocialLinks
+      Value: |
+        {E65B7B58-4FAE-4672-88F1-889D0A6B6B46}
+        {8F04853B-DCDD-48A2-9CBD-788B9DC973DC}
+        {34B28600-35CD-47D9-ACE5-DA10362EF118}
+        {ACA37B2C-7202-4946-A9E8-D398EC11BA5A}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220730T093415Z
+    - ID: "f6ba3a8f-43a4-419d-883c-087ecce46255"
+      Hint: LocationsSectionHeading
+      Value: OUR LOCATIONS
+    - ID: "f98bcbc3-fe23-470e-b640-b01e628b1da2"
+      Hint: NewsletterSectionContent
+      Value: |
+        <p>
+        Join 2,489 other coffee lovers and get exclusive offers and info in our monthly newsletter!
+        </p>

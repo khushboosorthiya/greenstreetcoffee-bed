@@ -1,0 +1,30 @@
+﻿---
+ID: "8f04853b-dcdd-48a2-9cbd-788b9dc973dc"
+Parent: "a710284c-2112-4ad8-8e08-2d531406beba"
+Template: "bce5fdd1-c84a-42ec-a2b4-df8b3736fc15"
+Path: /sitecore/content/Metro/Green Street Coffee/Data/Navigation/Social Links/Facebook
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14e8a72c-e8b7-42f1-a4a1-72ff4e020c00"
+      Hint: SocialLink
+      Value: |
+        <link linktype="external" url="https://www.facebook.com/greenstreetcoffee" anchor="" title="Facebook" target="_blank" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T091509Z
+    - ID: "8b2748a0-b3c8-4d17-89c7-8d8c3513dceb"
+      Hint: SocialLinkTitle
+      Value: Facebook
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "684f3bd7-45fa-4d75-a1ba-47799fe9cd4c"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220731T180610Z

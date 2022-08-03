@@ -1,0 +1,45 @@
+﻿@model Sitecore.Mvc.Presentation.RenderingModel
+
+@using Sitecore.Mvc.Extensions;
+
+<div class="header-top">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <div class="header-logo">
+                    @Html.Sitecore().Field("LogoLink", new
+                    {
+                        text = @Html.Sitecore().Field("SiteLogo", new { @class = "img-fluid" })
+                    })
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="utility-wrapper">
+                    <div class="search-wrapper">
+                        <form>
+                            <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                        </form>
+                    </div>
+                    <div class="cart-wrapper">
+                        <a href="#" class="header-logo-wrapper">
+                            <img src="~/content/images/cart.png" alt="Green Stret Coffee" />
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="nav-wrapper">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                @Html.Sitecore().Placeholder("primary-navigation")
+            </div>
+            <div class="col-md-4">
+                @Html.Sitecore().Placeholder("breadcrumb")
+            </div>
+        </div>
+    </div>
+</div>

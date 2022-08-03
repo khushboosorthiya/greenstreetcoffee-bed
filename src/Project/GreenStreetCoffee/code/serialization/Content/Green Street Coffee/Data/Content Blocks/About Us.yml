@@ -1,0 +1,33 @@
+﻿---
+ID: "94e0faf5-3614-46db-b02f-48b5cf28c1fa"
+Parent: "9cbe807d-7510-4360-babc-c363e3d7ad73"
+Template: "46eee3fb-6d45-48db-8b5c-5eadc8f4308b"
+Path: /sitecore/content/Metro/Green Street Coffee/Data/Content Blocks/About Us
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T100808Z
+    - ID: "51935bfc-8daa-466b-aabf-3097c5f29226"
+      Hint: Content
+      Value: |
+        <p>Greenstreet Coffee is a pioneer Philadelphia coffee roaster honing the craft of coffee with passion.</p>
+        <p>Currently <a title="Greenstreet Coffee Roaster" href="https://www.google.com/maps/place/GreenStreet+Coffee+Roasters/@39.938421,-75.175154,17z/data=!3m1!4b1!4m2!3m1!1s0x89c6c7d99085cda7:0x65d307a43d4315ef" target="_blank" rel="noopener noreferrer">roasting in South Philadelphia</a> and serving fresh by the cup at 4533 Baltimore Ave, Greenstreet prides itself on direct trade practices that allow for transparency from seed to cup.</p>
+        <p>Chris Molieri started Greenstreet Coffee Roasters to offer a fresh approach to great coffee and sustainable business practices. It’s this approach that they believe contributes to building a stronger local community in Philadelphia that also allows for a positive impact on the developing countries that cultivate the beans that make our coffee great.</p>
+        <p>Dedicated to roasting exceptional tasting coffees that are responsibly sourced, Greenstreet seeks to create a new legacy for coffee in Philadelphia and pave a way for new coffee entrepreneurs. Simply put, Greenstreet Coffee Roasters is a hometown company focused on quality and responsibility. We know how much work goes in to a great cup of coffee and we never tire pursuing the best in a cup.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "df4c298b-f36b-45e3-bdf2-6f1da219b39e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "c42560fd-8f8b-46d9-97c8-4075e6202c6a"
+      Hint: Heading
+      Value: About Us
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220730T100930Z

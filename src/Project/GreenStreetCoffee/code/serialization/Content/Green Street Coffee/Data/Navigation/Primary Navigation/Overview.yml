@@ -1,0 +1,41 @@
+﻿---
+ID: "06e75ffe-4af5-4c33-8189-45f765806e30"
+Parent: "66996a90-d904-467d-bbcc-33b72f8133fb"
+Template: "c054eb93-1ccf-473a-a87e-2f47c80ca17b"
+Path: /sitecore/content/Metro/Green Street Coffee/Data/Navigation/Primary Navigation/Overview
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b46ed8b-0bce-4623-858f-6958cb889499"
+      Hint: NavigationTitle
+      Value: Overview
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T100045Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "db7839d9-f8a0-4f2c-812c-3d631608be53"
+    - ID: "a1501947-be0c-48ba-b632-851e1a9c9234"
+      Hint: SubNavigationLinks
+      Value: |
+        {D767EE68-A958-4C14-B380-BFEBC1D09BAC}
+        {B6C172C4-5DF2-42CE-9554-1026CA3B5E66}
+        {0DB41F75-5760-4D20-BD71-8C9750FB87B9}
+        {11D7CA06-B03F-493D-BAE7-5CB461D4FA57}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bc10544f-10b2-4420-90a1-1e2ae2b867ba"
+      Hint: NavigationLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{640F3167-E787-4893-8EC3-3A70435F0626}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220802T141839Z

@@ -1,0 +1,21 @@
+{
+  "namespace": "GreenStreetCoffee.Feature.PageContent",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Templates",
+        "path": "/sitecore/templates/Feature/Page Content",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Feature/Page Content",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}

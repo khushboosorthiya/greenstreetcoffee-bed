@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net48</TargetFramework>
+    <RootNamespace>GreenStreetCoffee.Foundation.Multisite</RootNamespace>
+    <AssemblyName>GreenStreetCoffee.Foundation.Multisite</AssemblyName>
+    <SitecoreRoleType>code</SitecoreRoleType>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectCapability Include="SupportsSystemWeb" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,29 @@
+﻿---
+ID: "5ab5ab9d-3ca9-410c-b240-5c446317dae4"
+Parent: "275c387a-50ff-49f4-b048-228d30d1ead2"
+Template: "c46d739a-9817-4d05-9b54-13cfa4c13463"
+Path: /sitecore/content/Metro/Green Street Coffee/Home/Philosophy/Cupping
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T094646Z
+    - ID: "56c22524-c0e1-4c82-8d8c-a3fa14256457"
+      Hint: BrowserTitle
+      Value: Cupping | Greenstreet Coffee Roasters
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e426ee92-44c5-4b0c-b6fb-782ee2a46646"
+    - ID: "8f98ed92-2bd7-42d6-a866-205268325da6"
+      Hint: BreadcrumbTitle
+      Value: Cupping
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220730T120140Z

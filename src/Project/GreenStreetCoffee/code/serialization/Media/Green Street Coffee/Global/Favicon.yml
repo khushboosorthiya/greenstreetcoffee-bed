@@ -1,0 +1,60 @@
+﻿---
+ID: "af672c9b-3cc2-42dd-b0e6-ff83343f5d63"
+Parent: "73094309-27b0-46f3-a41c-e36be078ed7e"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Project/Green Street Coffee/Global/Favicon
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/AF672C9B3CC242DDB0E6FF83343F5D63.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 32
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "88bd7183-19cf-4775-a61c-97315c2e54dd"
+  Value: iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAIAAAD8GO2jAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA91JREFUeNqUVntIU2EU3/1259T5zJrv0kWhWdnUEiN6ERFR9LCCgqIs6q+K+q8H9FdQUBAhUf2RFdGDigpKyn9CDFHTnL2MSsnmfKStuTm3ubt7+81P5/DefXNn4/Ld853H9/3OueccTpIkFZO+O3q/2M3fHD2SJJpdf8HJjknhOJIXn1GQkD0/Pp2tzoVy4BWF132m2oGvDsHN0I/no1fNWrAhbYmG8BE4gOlnliZVJLQtcxnchHdgHR2mB5eLAo3yzFIsnloagZtcgF5lRlRcSAdQg+nmfx2KZ7xUuA+AYDHiGz1huq0oU5I8F26CAzMJnM3rZFgHaSdQ1nBqwnGiErZUXR+dkKTRUQ4J7FX3tjKsg9rtFqfgsXtdfR6bGDr3YASmpkIE1oue94oKFHrCkVe9LcYkg47XfhoyL0+ZxwgGaEvG0o3pxnEHHtF7rLUq1IkuF+6LG4N+VBROtt3VqbXnCnbGqqPAcfo8J013QileNR7QEo0f1pq+NgYyUUEJXmmswFOQfONbHM9QhNnNGSUEaL7s/cCQA6Zun3dYcPe7bZRjcVnx6hTcnc5+hiLMCpKo3nGiosn6kyH3ZcgsqiTk2BNL4xp9ATgXv71I1MR0u6wPzfWAl6Fr0Ol51Bn2J2qISy1Lma/miMn2i3JmauNzdXoVx6X9S7R7R1iHs5u5C+3P2Te9smR/zFhIvaJPQ9Q02jQwgO64qYp5g1Qy4Bli34Dn1BPL8dzn8BsjNSFsXRgnLt8oW+jtwGecHVh3Ov9QDm4MLY8ofLB2snUhxoctk0+7G5utHajGP4f7bhQf9if4j+qiZANcttm6wqrzwJdd8YuScvfmrMTiuaWZcopnzN2VVSb6a0DtR9tvhi6Mhw9ypfEgjS2+LxoPZDfPERrto623wgQ5OzaFfUdJJYXlhCIYJ4sSZ4fqhXNiZ6IsPzLXI8iC6HvVM14j6wbacRvc40l3A9sBjPP5CVnK0Ccb9sxeQddnPj8Y9Dj8NTKzBE+4xB9hR2miMve66uoG2+VGYJwAzU3pRfK9QOUBnV+4G7cJ3s3R6WnhC+S73ALMwrg/VutSF8u3kZTBr6fzt9PvGZSgiT2Vt5UhTImaJTSZ0B+mbAPiax1vgjkHclbTxaHctcH86x01EJY3HHqgyaZ///c7+TCBDh6IhCIpoh+sNekABfmxuUHelpFqZ/PLFa2f+nQfY458sCjPKg0MLxGMLSBaKo603AwlwBpbaH9HrUdbVxy8wpLi4DW12GEb8OEZ6egYGCOmO/yiWKJrT3P4XZ9WiAEisulacXzvGhkEBx/d9Mf3/wIMAIhu+udHyfxXAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1083
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 32 x 32
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 32
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T092205Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "65885c44-8fcd-4a7f-94f1-ee63703fe193"
+      Hint: Alt
+      Value: Green Street Coffee
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d7aa6374-4d5e-4502-8cf2-042c600b8587"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220730T092226Z

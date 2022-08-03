@@ -1,0 +1,71 @@
+﻿---
+ID: "e72eb9df-3d8c-4184-b30d-5522cd610068"
+Parent: "85991668-a8e0-428f-8032-023f0383dc0c"
+Template: "85991668-a8e0-428f-8032-023f0383dc0c"
+Path: /sitecore/templates/Project/Green Street Coffee/Pages/_Page Base/__Standard Values
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{CF585EA8-CC20-4708-BF1A-E2BF7536504F}">
+        <r
+          ds="{27C35ACB-F8A1-4906-9032-811C3C7D1C6F}"
+          id="{93EFEB23-62C9-48BF-9ECB-B56B0CCC5E67}"
+          ph="footer"
+          uid="{244BBB8F-E091-4405-8C11-728C9D100B45}" />
+        <r
+          id="{918115C7-8687-4CAD-AA88-4185FAFB141B}"
+          ph="/header/breadcrumb"
+          uid="{6941AE2D-3936-4130-97FF-BFDCF0B5AFC7}" />
+        <r
+          ds="{3FC87D70-7ECA-422B-B20C-FFB30E2C03F5}"
+          id="{0338F4F9-9044-40CB-A5F5-53996FCB0F5F}"
+          par=""
+          ph="/header/primary-navigation"
+          uid="{1E6A55B2-B6E8-492A-A16A-735EC8008B2D}"
+          ccb="Clear on publish" />
+        <r
+          ds="{3FC87D70-7ECA-422B-B20C-FFB30E2C03F5}"
+          id="{6424E50A-A3A3-4F60-B894-6A7D069C5D0E}"
+          ph="header"
+          uid="{0B64E150-D634-45F5-A5A9-4A9DDB870878}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T080101Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "56c22524-c0e1-4c82-8d8c-a3fa14256457"
+      Hint: BrowserTitle
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "9331224b-62ab-4f60-9b3f-1cc26487bcaa"
+    - ID: "8f98ed92-2bd7-42d6-a866-205268325da6"
+      Hint: BreadcrumbTitle
+      Value: $name
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220802T144655Z

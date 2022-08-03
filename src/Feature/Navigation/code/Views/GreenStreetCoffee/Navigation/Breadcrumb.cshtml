@@ -1,0 +1,24 @@
+﻿@model GreenStreetCoffee.Feature.Navigation.Models.BreadcrumbViewModel
+
+@if (Model != null && Model.BreadcrumbItems != null && Model.BreadcrumbItems.Any())
+{
+    <nav aria-label="breadcrumb" class="breadcrumb-wrapper">
+        <ol class="breadcrumb">
+            @foreach (var breadcrumItem in Model.BreadcrumbItems)
+            {
+                if (breadcrumItem.Active)
+                {
+                    <li class="breadcrumb-item active">
+                        @Html.Sitecore().Field("BreadcrumbTitle", breadcrumItem.PageItem)
+                    </li>
+                }
+                else
+                {
+                    <li class="breadcrumb-item">
+                        <a href="@breadcrumItem.PageUrl">@Html.Sitecore().Field("BreadcrumbTitle", breadcrumItem.PageItem)</a>
+                    </li>
+                }
+            }
+        </ol>
+    </nav>
+}

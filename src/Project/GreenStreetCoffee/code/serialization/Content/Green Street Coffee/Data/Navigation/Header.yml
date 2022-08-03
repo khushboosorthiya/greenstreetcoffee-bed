@@ -1,0 +1,42 @@
+﻿---
+ID: "3fc87d70-7eca-422b-b20c-ffb30e2c03f5"
+Parent: "ba255ed2-c0d2-48aa-9302-6a9900a1dd72"
+Template: "40086d4f-af59-4f4a-8582-cb19b5afebea"
+Path: /sitecore/content/Metro/Green Street Coffee/Data/Navigation/Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "18b56b99-e87b-4133-82a9-ca3f9b98e7db"
+      Hint: PrimaryNavigationLinks
+      Value: |
+        {E35306BD-5DC9-4CED-B9AC-2B3BD415B48E}
+        {252B3116-642F-45A6-9926-26874F3C2817}
+        {E8FF9D76-D904-44A3-92CB-CBFC6FB51533}
+        {F86E36BE-8BB3-4E0F-9598-CA67EA29EA7B}
+        {06E75FFE-4AF5-4C33-8189-45F765806E30}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T091549Z
+    - ID: "52c24845-bd1b-434d-8680-672e7456bf76"
+      Hint: LogoLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{803B8677-9D49-4260-923A-3E40E886C8EB}" />
+    - ID: "78f7bc02-1583-437b-afac-6f2d3fbe8cf3"
+      Hint: SiteLogo
+      Value: |
+        <image mediaid="{B8B9A79A-71F6-449B-A3A4-878E1C38FCE3}" ></image>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "41fe36c0-1926-4543-8742-4896fc90ffdf"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220802T171547Z

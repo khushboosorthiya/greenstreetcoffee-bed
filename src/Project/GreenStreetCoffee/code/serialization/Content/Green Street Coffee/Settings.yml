@@ -1,0 +1,27 @@
+﻿---
+ID: "bca55090-4fdf-4e7e-a1fd-84015f867caa"
+Parent: "9401d62f-bb31-4c0a-a432-4aa16b94d611"
+Template: "32973859-ed39-43fc-9d74-a8cc169c6d68"
+Path: /sitecore/content/Metro/Green Street Coffee/Settings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T065217Z
+    - ID: "7ab4e50a-4f3f-4599-bd29-e9077cd3698f"
+      Hint: Favicon
+      Value: |
+        <image mediaid="{AF672C9B-3CC2-42DD-B0E6-FF83343F5D63}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "12336952-502d-4557-ac68-83bf7c41fd84"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220730T092332Z

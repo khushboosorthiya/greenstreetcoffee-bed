@@ -1,0 +1,23 @@
+﻿---
+ID: "a710284c-2112-4ad8-8e08-2d531406beba"
+Parent: "ba255ed2-c0d2-48aa-9302-6a9900a1dd72"
+Template: "6bd0ba61-77c0-40d5-b028-48e902f67d58"
+Path: /sitecore/content/Metro/Green Street Coffee/Data/Navigation/Social Links
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T091455Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "92abe881-adc2-4b8d-861e-c5a0efcdfa58"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220730T091455Z

@@ -1,0 +1,28 @@
+{
+  "namespace": "GreenStreetCoffee.Feature.Navigation",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Templates",
+        "path": "/sitecore/templates/Feature/Navigation",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Renderings",
+        "path": "/sitecore/layout/Renderings/Feature/Navigation",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Placehoder Settings",
+        "path": "/sitecore/layout/Placeholder Settings/Feature/Navigation",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}

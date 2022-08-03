@@ -1,0 +1,47 @@
+{
+  "namespace": "GreenStreeCoffee.Website",
+  "references": [
+    "GreenStreetCoffee.Feature.Navigation",
+    "GreenStreetCoffee.Feature.PageContent",
+    "GreenStreetCoffee.Foundation.Multisite"
+  ],
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Templates",
+        "path": "/sitecore/templates/Project/Green Street Coffee",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Placeholder Settings",
+        "path": "/sitecore/layout/Placeholder Settings/Project/Green Street Coffee",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Media",
+        "path": "/sitecore/media library/Project/Green Street Coffee",
+        "scope": "descendantsOnly"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Tenant",
+        "path": "/sitecore/content/Metro",
+        "scope": "singleItem"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "database": "master",
+        "name": "Content",
+        "path": "/sitecore/content/Metro/Green Street Coffee",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}

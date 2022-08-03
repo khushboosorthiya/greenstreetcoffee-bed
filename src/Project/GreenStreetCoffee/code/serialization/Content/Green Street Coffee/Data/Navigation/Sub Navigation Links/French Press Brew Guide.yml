@@ -1,0 +1,30 @@
+﻿---
+ID: "2c2676c2-2b2b-49b0-85d5-8c07585a9e1a"
+Parent: "fc34a332-d61e-4e93-bcca-a3a9cb051341"
+Template: "4592ab55-9ea7-490d-8ab6-9bcfef36fc87"
+Path: /sitecore/content/Metro/Green Street Coffee/Data/Navigation/Sub Navigation Links/French Press Brew Guide
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b46ed8b-0bce-4623-858f-6958cb889499"
+      Hint: NavigationTitle
+      Value: French Press Brew Guide
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T100435Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "18ee9e07-52b0-4093-a533-6323a2409655"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bc10544f-10b2-4420-90a1-1e2ae2b867ba"
+      Hint: NavigationLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{6A155386-F84F-462F-B5F0-B280C0A6A76F}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220802T141703Z

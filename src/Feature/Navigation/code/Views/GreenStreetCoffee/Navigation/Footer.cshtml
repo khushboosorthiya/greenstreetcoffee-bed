@@ -1,0 +1,48 @@
+﻿@model GreenStreetCoffee.Feature.Navigation.Models.FooterViewModel
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-4">
+            <div>
+                <h6>@Html.Sitecore().Field("LocationsSectionHeading", Model.DataSource)</h6>
+                <div>
+                    @Html.Sitecore().Field("LocationsSectionContent", Model.DataSource)
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div>
+                <h6>@Html.Sitecore().Field("NewsletterSectionHeading", Model.DataSource)</h6>
+                <div>
+                    <form>
+                        @Html.Sitecore().Field("NewsletterSectionContent", Model.DataSource)
+                        <p>
+                            <label>Email address: </label>
+                            <input type="email" id="mc4wp_email" name="EMAIL" placeholder="Your email address" required="" />
+                        </p>
+                    </form>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div>
+                <h6>@Html.Sitecore().Field("SocialLinksHeading", Model.DataSource)</h6>
+                <div>
+                    <ul>
+                        @foreach (var socialLink in Model.SocialLinks)
+                        {
+                            <li>
+                                @Html.Sitecore().Field("SocialLink", socialLink, new
+                                {
+                                    @class = socialLink["SocialIcon"],
+                                    title = socialLink["SocialLinkTitle"],
+                                    text = @Html.Sitecore().Field("SocialLinkTitle", socialLink)
+                                })
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,66 @@
+﻿@model GreenStreetCoffee.Feature.Navigation.Models.PrimaryNavigationViewModel
+
+@using Sitecore.Mvc.Extensions;
+
+@*https://bootstrap-menu.com/detail-basic-hover.html*@
+
+@if (Model != null && Model.Links != null && Model.Links.Any())
+{
+    using (Html.EditFrame("/sitecore/content/Metro/Green Street Coffee/Data/Navigation/Header", "Primary Nav", "Edit Primary Links", "Edit Primary Links", null, null))
+    {
+        <nav class="navbar navbar-expand-lg">
+            <div class="container-fluid">
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#main_nav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <div class="collapse navbar-collapse">
+
+                    <ul class="navbar-nav">
+                        @foreach (var link in Model.Links)
+                        {
+                            using (Html.EditFrame(link.Item.Paths.FullPath, "Sub Navigation", "Edit Sub Navigation Links", "Edit Sub Navigation Links", null, null))
+                            {
+                                if (link.SubNavigation.Any())
+                                {
+                                    <li class="nav-item dropdown @(link.IsActive ? "active" : String.Empty)">
+                                        @Html.Sitecore().Field("NavigationLink", link.Item, new
+                                   {
+                                       text = @Html.Sitecore().Field("NavigationTitle", link.Item),
+                                       @class = "nav-link dropdown-toggle"
+                                   })
+
+                                        <ul class="@(!Sitecore.Context.PageMode.IsExperienceEditor ? "dropdown-menu" : "")">
+                                            @foreach (var subLink in link.SubNavigation)
+                                            {
+                                                <li class="@(subLink.IsActive ? "active" : String.Empty)">
+                                                    @Html.Sitecore().Field("NavigationLink", subLink.Item, new
+                                               {
+                                                   text = @Html.Sitecore().Field("NavigationTitle", subLink.Item),
+                                                   @class = "dropdown-item"
+                                               })
+                                                </li>
+                                            }
+                                        </ul>
+
+                                    </li>
+
+                                }
+                                else
+                                {
+                                    <li class="nav-item @(link.IsActive ? "active" : String.Empty)">
+                                        @Html.Sitecore().Field("NavigationLink", link.Item, new
+                                   {
+                                       text = @Html.Sitecore().Field("NavigationTitle", link.Item),
+                                       @class = "nav-link"
+                                   })
+                                    </li>
+                                }
+                            }
+                        }
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    }
+}

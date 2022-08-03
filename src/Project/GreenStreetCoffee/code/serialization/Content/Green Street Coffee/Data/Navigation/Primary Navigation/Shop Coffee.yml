@@ -1,0 +1,34 @@
+﻿---
+ID: "e35306bd-5dc9-4ced-b9ac-2b3bd415b48e"
+Parent: "66996a90-d904-467d-bbcc-33b72f8133fb"
+Template: "c054eb93-1ccf-473a-a87e-2f47c80ca17b"
+Path: /sitecore/content/Metro/Green Street Coffee/Data/Navigation/Primary Navigation/Shop Coffee
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b46ed8b-0bce-4623-858f-6958cb889499"
+      Hint: NavigationTitle
+      Value: Shop Coffee
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220730T100012Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3919d7e4-4d02-4758-9b3c-afebb5aecb8e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "bc10544f-10b2-4420-90a1-1e2ae2b867ba"
+      Hint: NavigationLink
+      Value: |
+        <link text="" anchor="" linktype="internal" class="" title=""  querystring="" id="{0FA1F691-47B0-4261-9F26-0947F3C6D2E4}" />
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20220802T134143Z
