@@ -22,7 +22,7 @@
   - Visual Studio Code
   - Sitecore CLI for items serialization
   - Sitecore MVC
-  - Frontend Repo: 
+  - Frontend Repo: https://github.com/khushboosorthiya/greenstreetcoffee-fed
     - HTML, CSS, SASS, Bootstrap, Gulp
 
 ## Screenshot
